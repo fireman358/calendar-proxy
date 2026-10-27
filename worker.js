@@ -4,8 +4,8 @@
    Ajouter un agenda = ajouter une ligne + git push (redéploiement auto). */
 
 const AGENDAS = {
-  // Agenda familial partagé (celui d'origine)
-  "famille": "https://calendar.google.com/calendar/ical/ij2cfhsi84rqa55i0rbg2kshq4%40group.calendar.google.com/private-f8248064935dc4ce8a72d8c8d0a2b2d9/basic.ics",
+  // Agenda privé de Papa
+  "papa": "https://calendar.google.com/calendar/ical/ij2cfhsi84rqa55i0rbg2kshq4%40group.calendar.google.com/private-f8248064935dc4ce8a72d8c8d0a2b2d9/basic.ics",
   // Agenda privé de Zoé
   "zoe": "https://calendar.google.com/calendar/ical/demoulin.zoe2411%40gmail.com/private-2f2181f214092f5b2079e81aa4a2d2a7/basic.ics",
   // Agenda privé de Laeticia
